@@ -1,0 +1,21 @@
+# Exclude common compiler-generated files
+*.obj
+*.exe
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.sbr
+*.bsc
+*.sln
+*.suo
+*.user
+*.vspscc
+*.vcxproj
+*.vcxproj.filters
+
+# Exclude build directories
+build/
+bin/
+obj/
